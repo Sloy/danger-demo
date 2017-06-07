@@ -5,3 +5,6 @@ rvm:
 
 before_script:
  - bundle exec danger
+
+ script:
+  - danger
